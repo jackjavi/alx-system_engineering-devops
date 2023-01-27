@@ -37,15 +37,5 @@ contained follows:
 * [0x1B. Web stack debugging #4](./0x1B-web_stack_debugging_4)
 * [Command Line for the Win](./command_line_for_the_win)
 
-## Author :black_nib:
 
-* __Jack Mtembete__ <[Jack Javi](https://github.com/jackjavi)>
-
-## Acknowledgements :pray:
-
-All work contained in this project was completed as part of the curriculum for
-Holberton School. Holberton School is a campus-based full-stack software
-engineering program that prepares students for careers in the tech industry
-using project-based peer learning. For more information, visit
-[this link]([https://www.holbertonschool.com](https://intranet.alxswe.com/).
 
